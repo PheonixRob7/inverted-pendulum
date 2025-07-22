@@ -43,3 +43,48 @@ Thumbs.db
 
 # Archivos de entorno (si usas .env o pipenv)
 .env
+
+# Autodesk Inventor – Archivos de usuario y caché
+
+# Inventor Project user settings and backups
+*.ipj.user
+*.ipj.backup
+*.ipj.old
+
+# iLogic caches and logs
+iLogicLogs/
+RulesCache/
+*.iLogicRule.xml
+
+# Vault‑related files (si usas Vault)
+*.vpj
+*.voudx
+
+# Archivos temporales y de respaldo
+# Archivos de copia de seguridad
+*.bak
+*.backup
+*.old
+
+# Archivos temporales genéricos
+*.tmp
+~$*
+*.~*
+
+# Cachés y bases de datos locales
+# Motor de base de datos de Inventor
+*.sqlite
+# Cachés de ensamblajes derivados
+DerivedData/
+NetBoosterCache/
+AssemblyCache/
+
+# Otros
+# Archivos de log
+*.log
+
+# Si usas Vault Collaboration
+*.odxls
+
+# Carpeta de trabajos en curso (opcional)
+_WorkingFiles/
