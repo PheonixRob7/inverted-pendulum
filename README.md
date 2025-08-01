@@ -18,3 +18,6 @@ Proyecto de control moderno aplicado a un péndulo invertido como base para sist
 ## Colaboradores
 - Robert Kevin Barrios Berna
 - Benji Kevin André Alvarez Hinostroza
+
+
+##Probando cosas
